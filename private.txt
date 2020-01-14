@@ -1,0 +1,4 @@
+username
+password
+050200MGX003H-01 0 外语系
+050200MGX009H-02 0 外语系
